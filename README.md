@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1207-unique-number-of-occurrences](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -29,22 +30,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1207-unique-number-of-occurrences](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
