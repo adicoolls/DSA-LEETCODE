@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1207-unique-number-of-occurrences](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Sliding Window
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adicoolls/DSA-LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
@@ -42,28 +44,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1207-unique-number-of-occurrences](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
