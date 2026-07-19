@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adicoolls/DSA-LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1207-unique-number-of-occurrences](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
