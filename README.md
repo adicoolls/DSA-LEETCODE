@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
