@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
