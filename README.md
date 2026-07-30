@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
