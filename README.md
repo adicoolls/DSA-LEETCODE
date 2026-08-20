@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
