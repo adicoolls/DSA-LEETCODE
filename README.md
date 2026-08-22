@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adicoolls/DSA-LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
