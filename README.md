@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/adicoolls/DSA-LEETCODE/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3875-construct-uniform-parity-array-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
