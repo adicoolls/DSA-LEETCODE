@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0561-array-partition) |
 ## DP on Trees
 |  |
 | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0496-next-greater-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
