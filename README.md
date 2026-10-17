@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0896-monotonic-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
