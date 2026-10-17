@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0941-valid-mountain-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
