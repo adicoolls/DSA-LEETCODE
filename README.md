@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
