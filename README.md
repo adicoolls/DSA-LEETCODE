@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0136-single-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0112-path-sum) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0112-path-sum) |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0303-range-sum-query-immutable) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
