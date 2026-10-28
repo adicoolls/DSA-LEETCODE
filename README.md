@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0845-longest-mountain-in-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0896-monotonic-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
+| [0845-longest-mountain-in-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0845-longest-mountain-in-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adicoolls/DSA-LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
