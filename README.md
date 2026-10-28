@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0189-rotate-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
