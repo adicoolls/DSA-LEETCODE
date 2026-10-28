@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0692-top-k-frequent-words) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/adicoolls/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
